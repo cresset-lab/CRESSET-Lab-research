@@ -38,6 +38,8 @@ See our [publications list](docs/publications.md) for complete research outputs.
 - **Dr. Manar Alalfi** - Lab Director
 - **PhD Students** - See [current projects](students/phd-projects/)
 - **MSc Students** - See [current projects](students/msc-projects/)
+- **Undergrad thesis Students** - See [current projects](students/ugd-projects/)
+
 
 ## 📬 Contact
 - **Lab Director**: Dr. Manar Alalfi - manar.alalfi@torontomu.ca
